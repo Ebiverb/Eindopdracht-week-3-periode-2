@@ -95,10 +95,21 @@ a {
 
 #url-location p {
     margin: 0;
+    color: #ffff;
+    
 }
 #url-location p a {
-    color: #ffffff;
+    color: #000000;
+    text-decoration: none;
 }
+#url-location span {
+    color: #000000;
+}
+#url-location b {
+    text-decoration: underline;
+}
+
+
 
 #sidebar {
     float: left;
@@ -321,10 +332,6 @@ a {
 
 #credit p {
     margin: 10px;
-}
-
-.very-bold {
-    font-weight: 900;
 }
 
 #linkactive {
