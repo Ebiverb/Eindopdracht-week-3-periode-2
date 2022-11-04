@@ -205,7 +205,6 @@ a {
     border: 3px solid #000000;
     margin: 20px;
     margin-bottom: 5px;
-    
 }
 
 #products-middle {
@@ -221,6 +220,7 @@ a {
     background-color: #A4A8D1;
     border-radius: 5px;
     box-sizing: border-box;
+    box-shadow: 2px 2px #000000;
    
 }
 
@@ -229,6 +229,7 @@ a {
     margin: 15px;
     border-radius: 5px; 
     background-color: #ffffff;
+    box-shadow: 2px 2px #000000;
 }
 
 .product-img img {
@@ -265,7 +266,7 @@ a {
 }
 
 .product-icon {
-    border: 5px solid #6e78eb;
+    border: 5px solid #000000;
     border-radius: 20px;
     height: 40px;
     width: 50px;
@@ -329,4 +330,5 @@ a {
 
 #linkactive {
     color: #ffffff;
+    text-decoration: underline;
 }
